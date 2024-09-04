@@ -20,7 +20,7 @@ The Event Management API is a Django-based backend system designed to manage eve
 ### Local Setup
 
 1. **Clone the Repository**:
-git clone https://github.com/yashpatil0108/Yash_Patil_Event_Management_Task_Appristine_Technology/upload cd event-management-api
+git clone https://github.com/yashpatil0108/Yash_Patil_Event_Management_Task_Appristine_Technology cd event-management-api
 
 
 2. **Install Dependencies**:
